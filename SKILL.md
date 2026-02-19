@@ -3,8 +3,9 @@ name: secrecy-audit
 description: Evaluate whether information is legitimately classified or merely embarrassment-protected, assessing the true purpose behind secrecy.
 license: MIT
 metadata:
-  version: 1.0.1
+  version: 1.0.4919
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - secrecy-audit
 - writing
